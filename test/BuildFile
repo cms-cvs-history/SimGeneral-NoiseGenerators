@@ -1,0 +1,6 @@
+<environment>
+  <use name=SimGeneral/NoiseGenerators>
+  <use name=FWCore/MessageLogger>
+  <bin file=CorrelatedNoisifierTest.cpp></bin>
+</environment>
+
