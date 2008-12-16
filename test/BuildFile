@@ -10,7 +10,6 @@
 </library>
 
 <environment>
-  <use name=SimGeneral/NoiseGenerators>
   <use name=FWCore/MessageLogger>
   <use name=CommonTools/Statistics>
   <bin file=CorrelatedNoisifierTest.cpp></bin>
